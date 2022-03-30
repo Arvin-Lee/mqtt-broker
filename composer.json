@@ -1,0 +1,14 @@
+{
+  "name": "leearvin/mqtt-broker",
+  "description": "MQTT broker for PHP",
+  "keywords": [
+    "php",
+    "mqtt",
+    "swoole"
+  ],
+  "license": "MIT",
+  "require": {
+    "monolog/monolog": "^2.4",
+    "swoole": "^4.5"
+  }
+}
